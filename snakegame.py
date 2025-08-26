@@ -13,6 +13,8 @@ class href():
         movementlist = []
         snake_segments = []  # Store positions of snake segments
 
+
+
         #movement
         def forward():
             t.pendown()
